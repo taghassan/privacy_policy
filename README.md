@@ -2,7 +2,7 @@
 
 _Last updated: [Date]_
 
-**[App Name]** ("we", "our", or "us") operates the **[App Name]** mobile application (the "App"). This Privacy Policy describes how we collect, use, and share information about you when you use our App.
+** ** ("we", "our", or "us") operates the ** ** mobile application (the "App"). This Privacy Policy describes how we collect, use, and share information about you when you use our App.
 
 ## 1. Information We Collect
 
@@ -70,8 +70,8 @@ We may update our Privacy Policy from time to time. We will notify you of any si
 
 If you have any questions about this Privacy Policy, please contact us:
 
-- **Email:** [your-email@example.com]
-- **Mail:** [Your Company Name, Address, City, Zip Code]
+- **Email:** [0to100.ae@gmail.com]
+- **Mail:** []
 
 ---
 
