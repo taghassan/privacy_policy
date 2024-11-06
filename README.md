@@ -1,8 +1,8 @@
 # Privacy Policy
 
-_Last updated: [Date]_
+_Last updated: [06/11/2024]_
 
-** ** ("we", "our", or "us") operates the ** ** mobile application (the "App"). This Privacy Policy describes how we collect, use, and share information about you when you use our App.
+** ** we operates the ** ** mobile application (the "App"). This Privacy Policy describes how we collect, use, and share information about you when you use our App.
 
 ## 1. Information We Collect
 
@@ -75,8 +75,8 @@ If you have any questions about this Privacy Policy, please contact us:
 
 ---
 
-**Effective Date:** _[Date]_
+**Effective Date:** _[06/11/2024]_
 
 ---
-
+note: this application is not government or semi government application
 By using the App, you agree to this Privacy Policy.
